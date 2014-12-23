@@ -1,1 +1,4 @@
-%h1 This is the placeholder ;)
+= link_to "Adicionar foto", new_post_path
+
+- @posts.each do |post|
+  %h2= link_to post.title, post
