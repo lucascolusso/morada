@@ -2,4 +2,5 @@
 
 simple app to share photos from the South of Brazil
 
+screenshot
 https://cloud.githubusercontent.com/assets/517173/5551775/456dfeaa-8b96-11e4-9b8a-0a1a8aebbf5e.png
